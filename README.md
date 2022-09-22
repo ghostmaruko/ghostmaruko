@@ -53,7 +53,7 @@ Ask me anything **[here](https://github.com/ghostmaruko/ghostmaruko/issues/new)*
 
 ![Ghostmaruko's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghostmaruko&theme=cobalt&show_icons=true)
 <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostmaruko&layout=compact&theme=dark&bg_color=0A0A0A" alt="ghostmaruko Top Languages"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghostmaruko&layout=compact)](https://github.com/ghostmaruko/github-readme-stats)
 <br />
 <br />
 <br />
