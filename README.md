@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/tmnt-teenage-mutant-ninja-turtles-cFdHXXm5GhJsc" width="100"/>
+  <img src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif" width="100"/>
 </div>
 
 ### Hi there 👋
