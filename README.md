@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif" width="250"/>
 </div>
 
-### Hi there 👋
+<h2>Hi there 👋<h2/>
 
 I’m currently studying to became a Web Developer. 
 
