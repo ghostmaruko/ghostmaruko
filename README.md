@@ -20,7 +20,7 @@
     <p>🔭 I’m currently studying on <strong>Develhope</strong></p>
   </ul>
  <hr>  
-  
+   
 I'm currently based in **[Nurenberg, Germany.](https://www.google.com/maps/place/Norimberga,+Germania/@49.4360085,10.9926115,11z/data=!3m1!4b1!4m5!3m4!1s0x479f57aeb5b61cd3:0xdd5daf85a98c21b7!8m2!3d49.4521018!4d11.0766654)**
 
 <br />
