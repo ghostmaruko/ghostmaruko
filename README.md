@@ -50,9 +50,14 @@ Ask me anything **[here](https://github.com/ghostmaruko/ghostmaruko/issues/new)*
 <br>
 <hr>
 
-
 ![Ghostmaruko's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghostmaruko&theme=cobalt&show_icons=true)
 <br>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostmaruko&layout=compact&theme=cobalt&bg_color=0A0A0A" alt="GhostMaruko Top Languages"/>
-<br>
+
+<br />
+<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/html.svg" alt="html"></a>
+<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/css.svg" alt="css"></a>
+<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/javascript.svg" alt="javascript"></a>
+<a margin="10" href="https://getbootstrap.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/bootstrap.svg" alt="bootstrap"></a>
+<a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/sass.svg" alt="sass"></a>
+
