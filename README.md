@@ -61,4 +61,4 @@ Ask me anything **[here](https://github.com/ghostmaruko/ghostmaruko/issues/new)*
 
 <br>
 <br>
-![](https://komarev.com/ghpvc/?username=ghostmaruko&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=ghostmaruko&style=flat-square&color=blueviolet)
