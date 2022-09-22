@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif" width="250"/>
 </div>
 
-<h2>Hello World, I'm Marco 👋<h2/>
+<h2 align="center">Hello World, I'm Marco 👋<h2/>
 
 <!-- ABOUT YOU -->
 <hr>
