@@ -1,9 +1,11 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif" width="150"/>
 </div>
 
 <div align="center">
 <h2> Hi There I'm Marco, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
+  <h4>Jr Full Stack Web Developer</h4>
+<br>
 <a href="https://www.linkedin.com/in/marco-esu" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -23,7 +25,6 @@
   </ul>
  <hr>
   
-<hr>
 <p>
   <h3 align="center">Support:</h3>
   <p>
