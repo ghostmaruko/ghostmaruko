@@ -27,8 +27,9 @@
 I'm currently based in **[Nurenberg, Germany.](https://www.google.com/maps/place/Norimberga,+Germania/@49.4360085,10.9926115,11z/data=!3m1!4b1!4m5!3m4!1s0x479f57aeb5b61cd3:0xdd5daf85a98c21b7!8m2!3d49.4521018!4d11.0766654)**
 
 <br />
-I love learning new techs and using new tools. I also love drinking Atay (Tea in Ar - Morocco) while coding.
+I love learning new techs and using new tools. I also love drinking Tea while coding.
 <br />
+I love reading manga, comics and noir books.
 <br />
   
 <p>
