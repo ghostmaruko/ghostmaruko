@@ -26,13 +26,17 @@ I'm currently based in **[Nurenberg, Germany.](https://www.google.com/maps/place
 <br>
 I love learning new techs and using new tools. I also love drinking Tea while coding.
 <br>
+  
 I love reading manga, comics and noir books.
 <br>
   
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.<br />
+Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
+<br>
+  
 Ask me anything **[here](https://github.com/ghostmaruko/ghostmaruko/issues/new)** or <a href="mailto:marcoesu.esu@gmail.com"><b>send me an email</b></a>.
 <br>
 <br>
+<hr>
   
 <p>
   <h3 align="center">Support:</h3>
