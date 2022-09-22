@@ -46,8 +46,14 @@ Ask me anything **[here](https://github.com/ghostmaruko/ghostmaruko/issues/new)*
     </a>
   </p>
 </p>
-  
-  
+
+<br>
+<hr>
 
 
 ![Ghostmaruko's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghostmaruko&theme=cobalt&show_icons=true)
+<br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostmaruko&layout=compact&theme=dark&bg_color=0A0A0A" alt="ghostmaruko Top Languages"/>
+<br />
+<br />
+<br />
