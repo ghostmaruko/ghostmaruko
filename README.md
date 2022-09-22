@@ -23,16 +23,16 @@
    
 I'm currently based in **[Nurenberg, Germany.](https://www.google.com/maps/place/Norimberga,+Germania/@49.4360085,10.9926115,11z/data=!3m1!4b1!4m5!3m4!1s0x479f57aeb5b61cd3:0xdd5daf85a98c21b7!8m2!3d49.4521018!4d11.0766654)**
 
-<br />
+<br>
 I love learning new techs and using new tools. I also love drinking Tea while coding.
-<br />
+<br>
 I love reading manga, comics and noir books.
-<br />
+<br>
   
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.<br />
 Ask me anything **[here](https://github.com/ghostmaruko/ghostmaruko/issues/new)** or <a href="mailto:marcoesu.esu@gmail.com"><b>send me an email</b></a>.
-<br />
-<br />
+<br>
+<br>
   
 <p>
   <h3 align="center">Support:</h3>
