@@ -22,25 +22,14 @@
 
 I'm currently based in **[Nurenberg, Germany.](https://www.google.com/maps/place/Norimberga,+Germania/@49.4360085,10.9926115,11z/data=!3m1!4b1!4m5!3m4!1s0x479f57aeb5b61cd3:0xdd5daf85a98c21b7!8m2!3d49.4521018!4d11.0766654)**
       
-<br>
 <p>
     I love learning new techs and using new tools. I also love drinking Tea while coding.
     <br>
     I love reading manga, comics and noir books.
-    <br>
-    Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
-    <br>        
-    Ask me anything **[here](https://github.com/ghostmaruko/ghostmaruko/issues/new)**
 </p>
 <hr>
-        
-<h3 align="center">Support:</h3>
-<a href="https://www.buymeacoffee.com/marcoesu">
-    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ghostmaruko"/>
-</a>
-<hr>
-<br>
 
+<br>
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
@@ -64,10 +53,13 @@ I'm currently based in **[Nurenberg, Germany.](https://www.google.com/maps/place
 
 
 <hr>
+   <div>
   <a href="github.com/ghostmaruko" target="blank"><img
      src="https://komarev.com/ghpvc/?username=ghostmaruko&style=for-the-badge&label=PROFILE+VIEWS" height="25" alt="views count"/>
   </a>
-
-<img src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif" width="100"/>
-
+<br>
+<a href="https://www.buymeacoffee.com/marcoesu">
+    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" width="110" alt="ghostmaruko"/>
+</a>
+   </div>
 </div>
