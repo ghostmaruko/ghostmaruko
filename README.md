@@ -6,7 +6,8 @@
 <h2> Hi There I'm Marco, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 <h3>Graphic Designer | Jr Full Stack Web Developer</h3>
   <ul align="center">
-    <p>🔭 I’m currently studying on <strong> <a href="https://www.develhope.co/en/" target="_blank">Develhope</a></strong></p>
+    <p>🔭 I’m currently studying on <strong> <a href="https://www.develhope.co/en/" target="_blank">Develhope school</a></strong> to learn Git, HTML, CSS, SASS, JavaScript, TypeScript, ReactJS and NodeJS.</p>
+    
   </ul>
 
   <hr>
