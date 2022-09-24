@@ -1,65 +1,67 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif" width="150"/>
-</div>
+    <div id="header" align="center">
+        <img src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif" width="150"/>
+      </div>
+      
+      <div align="center">
+      <h2> Hi There I'm Marco, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
+      <h3>Graphic Designer | Jr Full Stack Web Developer</h3>
+        <ul align="center">
+          <p>🔭 I’m currently studying on <strong> <a href="https://www.develhope.co/en/" target="_blank">Develhope</a> </strong>
+            school to learn Git, HTML, CSS, SASS, JavaScript, TypeScript, ReactJS and NodeJS.</p>
+        </ul>
+      
+        <hr>
+      <a href="https://www.linkedin.com/in/marco-esu" target="_blank">
+      <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+      </a>
+      <a href="mailto:marcoesu.esu@gmail.com" target="blank">
+      <img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;"/></a>
+      <a href="https://www.instagram.com/gesus_artworks/" target="_blank">
+      <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+      </a>
 
-<div align="center">
-<h2> Hi There I'm Marco, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
-<h3>Graphic Designer | Jr Full Stack Web Developer</h3>
-  <ul align="center">
-    <p>🔭 I’m currently studying on <strong> <a href="https://www.develhope.co/en/" target="_blank">Develhope school</a></strong> to learn Git, HTML, CSS, SASS, JavaScript, TypeScript, ReactJS and NodeJS.</p>
-    
-  </ul>
-
-  <hr>
-<a href="https://www.linkedin.com/in/marco-esu" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
- <a href="mailto:marcoesu.esu@gmail.com" target="blank">
- <img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;"/></a>
-<a href="https://www.instagram.com/gesus_artworks/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-   
-I'm currently based in **[Nurenberg, Germany.](https://www.google.com/maps/place/Norimberga,+Germania/@49.4360085,10.9926115,11z/data=!3m1!4b1!4m5!3m4!1s0x479f57aeb5b61cd3:0xdd5daf85a98c21b7!8m2!3d49.4521018!4d11.0766654)**
-
-<br>
-I love learning new techs and using new tools. I also love drinking Tea while coding.
-<br>
-  
-I love reading manga, comics and noir books.
-<br>
-  
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
-<br>
-  
-Ask me anything **[here](https://github.com/ghostmaruko/ghostmaruko/issues/new)**
-<br>
-<br>
-<hr>
-  
-<p>
-  <h3 align="center">Support:</h3>
-  <p>
-    <a href="https://www.buymeacoffee.com/marcoesu">
-      <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="josuerv99"/>
-    </a>
-  </p>
-</p>
-
-<br>
-<hr>
-
-![Ghostmaruko's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghostmaruko&theme=cobalt&show_icons=true)
-<br>
-<br>
-
-<br/>
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/html.svg" alt="html"></a>
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/css.svg" alt="css"></a>
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/javascript.svg" alt="javascript"></a>
-<a margin="10" href="https://getbootstrap.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/bootstrap.svg" alt="bootstrap"></a>
-<a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/sass.svg" alt="sass"></a>
-
-<br>
-<br>
-![](https://komarev.com/ghpvc/?username=ghostmaruko&style=flat-square&color=blueviolet)
+      I'm currently based in **[Nurenberg, Germany.](https://www.google.com/maps/place/Norimberga,+Germania/@49.4360085,10.9926115,11z/data=!3m1!4b1!4m5!3m4!1s0x479f57aeb5b61cd3:0xdd5daf85a98c21b7!8m2!3d49.4521018!4d11.0766654)**
+      
+      <br>
+      I love learning new techs and using new tools. I also love drinking Tea while coding.
+      <br>
+        
+      I love reading manga, comics and noir books.
+      <br>
+        
+      Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
+      <br>
+        
+      Ask me anything **[here](https://github.com/ghostmaruko/ghostmaruko/issues/new)**
+      <br>
+      <br>
+      <hr>
+        
+      <p>
+        <h3 align="center">Support:</h3>
+        <p>
+          <a href="https://www.buymeacoffee.com/marcoesu">
+            <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="josuerv99"/>
+          </a>
+        </p>
+      </p>
+      
+      <br>
+      <hr>
+      
+      ![Ghostmaruko's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghostmaruko&theme=cobalt&show_icons=true)
+      <br>
+      <br>
+      
+      <br/>
+      <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="10px" height="40" src="img/icone/html.svg" alt="html"></a>
+      <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img margin="10px" height="40" src="img/icone/css.svg" alt="css"></a>
+      <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img margin="10px" height="40" src="img/icone/js.svg" alt="javascript"></a>
+      <a margin="10" href="https://getbootstrap.com" target="_blank"><img margin="10px" height="40" src="img/icone/bootstrap.svg" alt="bootstrap"></a>
+      <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" height="40" src="img/icone/sass.svg" alt="sass"></a>
+      <br>
+      <a margin="10" href="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665"></a>
+      <a margin="10" href="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"></a>
+      <a margin="10" href="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white"></a>
+      <br>
+      <br>
