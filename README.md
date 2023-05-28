@@ -6,10 +6,10 @@
 <h2> Hi There I'm Marco, welcome to my Github profile!
     <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30">
 </h2>
-<h3>Graphic Designer | Jr Full Stack Web Developer</h3>
+<h3>Graphic Designer | Junior Developer</h3>
     
 <ul align="center">
-    <p> I’m currently a student by <strong> <a href="https://www.develhope.co/en/" target="_blank">Develhope</a> </strong> school to learn Git, HTML, CSS, SASS,               JavaScript, TypeScript, ReactJS and NodeJS.</p>
+    <p> I’m currently a junior developer by <strong> <a href="" target="_blank">Bit Software Solution</a> </strong>.</p>
 </ul>
       
 <hr>
