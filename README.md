@@ -17,8 +17,6 @@
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="mailto:marcoesu.esu@gmail.com" target="blank"><img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;"/></a>
-
-I'm currently based in **[Nurenberg, Germany.](https://www.google.com/maps/place/Norimberga,+Germania/@49.4360085,10.9926115,11z/data=!3m1!4b1!4m5!3m4!1s0x479f57aeb5b61cd3:0xdd5daf85a98c21b7!8m2!3d49.4521018!4d11.0766654)**
       
 <p>
     I love learning new techs and using new tools. I also love drinking Tea while coding.
