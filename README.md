@@ -26,7 +26,7 @@
 </p>
 <hr>
 
-<br>
+<!-- <br>
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
@@ -44,7 +44,7 @@
 ![After Effects](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)&nbsp;
 ![PremierePro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)&nbsp;
 
-<hr>
+<hr> -->
 <a align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ghostmaruko&show_icons=true&theme=radical&locale=en" alt="ghostmaruko"/></a>
 <!--
 <a align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostmaruko&show_icons=true&theme=radical&locale=en" alt="ghostmaruko"/></a> -->
