@@ -10,6 +10,7 @@
     
 <ul align="center">
     <p> I’m currently a junior developer by <strong> <a href="" target="_blank">Bit Software Solution</a> </strong>.</p>
+   <p> I’m actually <strong> <a href="" target="_blank">Consultant Tester @Concept Quality Reply</a> </strong>.</p>
 </ul>
       
 <hr>
