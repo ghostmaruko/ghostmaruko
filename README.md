@@ -21,12 +21,13 @@
 ---  
 
 👨‍💻 **Work Experience**  
-- **Consultant Tester @ Concept Quality Reply** (YYYY - YYYY)  
+- **Consultant Tester @ Concept Quality Reply** (2023 - 2024)  
   - Manual and automated testing for web applications  
-  - UI/UX improvements based on user feedback  
-- **Junior Developer @ Bit Software Solution** (YYYY - YYYY)  
+    
+- **Junior Developer @ Bit Software Solution** (2022 - 2024)  
   - Frontend development with Angular  
-  - Collaboration with designers and testers  
+  - Collaboration with designers and testers
+  - UI/UX improvements based on user feedback  
  ---
  
 🎮 In my free time, I enjoy reading manga, playing Magic, and experimenting with my Raspberry Pi.  
