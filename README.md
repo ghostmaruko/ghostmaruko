@@ -10,9 +10,9 @@
 
 🛠️ **Tech & Tools**  
 - **Frontend:** HTML, CSS, JavaScript, Angular  
-- **Backend:** C#, Java, MySQL  
+- **Backend:** C#, Java  
 - **Design & UX:** Figma, Adobe Suite  
-- **Test Automation:** Selenium, pytest  
+- **Test Automation:** Selenium
 
 📫 **Let's Connect!**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marco-esu)  
