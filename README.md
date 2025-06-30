@@ -5,11 +5,11 @@
 👨‍💻 **About Me**  
 - Bachelor's degree in Interior & Graphic Design from IED  
 - Experience in UX Design for enterprise platforms  
-- Manual and automation testing with Selenium & pytest  
-- Passionate about web development and Angular  
+- Manual and automation testing 
+- Passionate about web development
 
 🛠️ **Tech & Tools**  
-- **Frontend:** HTML, CSS, JavaScript, Angular  
+- **Frontend:** HTML, CSS, JavaScript
 - **Backend:** C#, Java  
 - **Design & UX:** Figma, Adobe Suite  
 - **Test Automation:** Selenium
