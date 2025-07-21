@@ -30,4 +30,4 @@
   - UI/UX improvements based on user feedback  
  ---
  
-🎮 In my free time, I enjoy reading manga, playing Magic, and experimenting with my Raspberry Pi.  
+🎮 In my free time, I enjoy reading manga, playing Magic, and Nintendo Switch.  
