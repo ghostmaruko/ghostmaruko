@@ -1,18 +1,19 @@
 # 👋 Hi, I'm Marco Esu  
 
-## 🎨 UX Designer | 🖥️ Junior Developer | 🛠️ Test Automation Enthusiast  
+## 🎨 UX Designer | 👨‍💻 Junior Software Engineer in Training | 🛠️ Test Automation Enthusiast  
 
 👨‍💻 **About Me**  
 - Bachelor's degree in Interior & Graphic Design from IED  
 - Experience in UX Design for enterprise platforms  
 - Manual and automation testing 
-- Passionate about web development
+- Passionate about building clean, maintainable, and scalable web applications
+- Currently enrolled in an intensive Software Engineering program at CareerFoundry, focusing on full-stack web development (JavaScript, React, Node.js, Angular)
 
 🛠️ **Tech & Tools**  
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** C#, Java  
+- **Frontend:** HTML, CSS, JavaScript, Angular, React
+- **Backend:** Node.js, Express, C#, Java  
 - **Design & UX:** Figma, Adobe Suite  
-- **Test Automation:** Selenium
+- **Test Automation:** Selenium, manual testing
 
 📫 **Let's Connect!**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marco-esu)  
