@@ -1,40 +1,66 @@
 # 👋 Hi, I'm Marco Esu  
 
-## Junior Software Engineer | Frontend-Focused Full-Stack Development
+## Junior Software Engineer | Frontend-Focused Full-Stack Developer
 
 👨‍💻 **About Me**  
-I am a Junior Software Engineer with a background in Interior & Graphic Design (IED), combining technical development skills with a strong UX and visual design mindset.
 
-I build responsive, user-centered web applications using modern JavaScript frameworks and RESTful architectures. I enjoy writing clean, maintainable code and continuously improving development workflows through testing and collaboration.
+Junior Software Engineer with a background in Interior & Graphic Design (IED), combining strong visual/UX sensitivity with solid software engineering fundamentals.
 
-Currently focused on growing as a full-stack developer, with particular strength in frontend engineering and secure backend integration.
+I design and build responsive, user-centered web applications using modern JavaScript frameworks and RESTful architectures. My approach emphasizes clean architecture, maintainable code, performance, and secure backend integration.
+
+With experience in both development and software testing, I bring a quality-oriented mindset to every project — from UI implementation to API validation and automated testing.
+
+Currently focused on growing as a full-stack developer, with a specialization in frontend engineering and scalable web applications.
+
+---
 
 🛠️ **Tech Stack**
 
-- **Languages:** JavaScript (ES6+), Java, C#  
-- **Frontend:** React, Angular, HTML5, CSS3, Responsive Design  
-- **Backend & APIs:** Node.js, Express, RESTful APIs, JWT Authentication  
-- **Testing & QA:** Selenium, Jest, Test-Driven Development (TDD)  
-- **Tools & Design:** Git, Figma, Adobe Creative Suite  
+**Languages**  
+JavaScript (ES6+), Java, C#
 
-📌 Always learning, always improving — open to Junior Software Engineering opportunities.
+**Frontend**  
+React, Angular, HTML5, CSS3, Responsive Design, Component-Based Architecture
 
-📫 **Let's Connect!**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marco-esu)  
-[![Portfolio](Portfolio)](https://www.marcoesu.dev/)  
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:marcoesu.esu@gmail.com)  
+**Backend & APIs**  
+Node.js, Express, RESTful APIs, JWT Authentication
 
+**Testing & Quality**  
+Selenium, Jest, Test-Driven Development (TDD), Manual Testing
 
----  
+**Tools & Design**  
+Git, GitHub, Figma, Adobe Creative Suite
 
-👨‍💻 **Work Experience**  
-- **Consultant Tester @ Concept Quality Reply** (2023 - 2024)  
-  - Manual and automated testing for web applications  
-    
-- **Junior Developer @ Bit Software Solution** (2022 - 2024)  
-  - Frontend development with Angular  
-  - Collaboration with designers and testers
-  - UI/UX improvements based on user feedback  
- ---
- 
-🎮 In my free time, I enjoy reading manga, playing Magic, and Nintendo Switch.  
+---
+
+📌 Always learning. Always improving.  
+Open to Junior Software Engineering opportunities.
+
+---
+
+📫 **Let's Connect**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-esu)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-marcoesu.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.marcoesu.dev/)
+
+[![Email](https://img.shields.io/badge/Email-marcoesu.esu@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcoesu.esu@gmail.com)
+
+---
+
+## 💼 Work Experience  
+
+### Consultant Tester @ Concept Quality Reply (2023 – 2024)  
+- Manual and automated testing for enterprise web applications  
+- Test case design and execution  
+- Collaboration with development teams to ensure release quality  
+
+### Junior Developer @ Bit Software Solution (2022 – 2024)  
+- Frontend development with Angular  
+- Implementation of reusable UI components  
+- Cross-functional collaboration with designers and QA  
+- UI/UX improvements based on user feedback  
+
+---
+
+🎮 Outside tech, I enjoy reading manga, playing Magic: The Gathering, and Nintendo Switch.
