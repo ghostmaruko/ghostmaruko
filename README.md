@@ -1,23 +1,29 @@
 # 👋 Hi, I'm Marco Esu  
 
-## 🎨 UX Designer | 👨‍💻 Junior Software Engineer in Training | 🛠️ Test Automation Enthusiast  
+## Junior Software Engineer | Frontend-Focused Full-Stack Development
 
 👨‍💻 **About Me**  
-- Bachelor's degree in Interior & Graphic Design from IED  
-- Experience in UX Design for enterprise platforms  
-- Manual and automation testing 
-- Passionate about building clean, maintainable, and scalable web applications
-- Currently enrolled in an intensive Software Engineering program at CareerFoundry, focusing on full-stack web development (JavaScript, React, Node.js, Angular)
+I am a Junior Software Engineer with a background in Interior & Graphic Design (IED), combining technical development skills with a strong UX and visual design mindset.
 
-🛠️ **Tech & Tools**  
-- **Frontend:** HTML, CSS, JavaScript, Angular, React
-- **Backend:** Node.js, Express, C#, Java  
-- **Design & UX:** Figma, Adobe Suite  
-- **Test Automation:** Selenium, manual testing
+I build responsive, user-centered web applications using modern JavaScript frameworks and RESTful architectures. I enjoy writing clean, maintainable code and continuously improving development workflows through testing and collaboration.
+
+Currently focused on growing as a full-stack developer, with particular strength in frontend engineering and secure backend integration.
+
+🛠️ **Tech Stack**
+
+- **Languages:** JavaScript (ES6+), Java, C#  
+- **Frontend:** React, Angular, HTML5, CSS3, Responsive Design  
+- **Backend & APIs:** Node.js, Express, RESTful APIs, JWT Authentication  
+- **Testing & QA:** Selenium, Jest, Test-Driven Development (TDD)  
+- **Tools & Design:** Git, Figma, Adobe Creative Suite  
+
+📌 Always learning, always improving — open to Junior Software Engineering opportunities.
 
 📫 **Let's Connect!**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marco-esu)  
+[![Portfolio](Portfolio)](https://www.marcoesu.dev/)  
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:marcoesu.esu@gmail.com)  
+
 
 ---  
 
