@@ -55,8 +55,7 @@ Open to Junior Software Engineering opportunities.
 - Test case design and execution  
 - Collaboration with development teams to ensure release quality  
 
-### Junior Developer @ Bit Software Solution (2022 – 2024)  
-- Frontend development with Angular  
+### Junior Developer @ Bit Software Solution (2022 – 2024)   
 - Implementation of reusable UI components  
 - Cross-functional collaboration with designers and QA  
 - UI/UX improvements based on user feedback  
