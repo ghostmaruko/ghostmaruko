@@ -48,18 +48,5 @@ Open to Junior Software Engineering opportunities.
 
 ---
 
-## 💼 Work Experience  
-
-### Consultant Tester @ Concept Quality Reply (2023 – 2024)  
-- Manual and automated testing for enterprise web applications  
-- Test case design and execution  
-- Collaboration with development teams to ensure release quality  
-
-### Junior Developer @ Bit Software Solution (2022 – 2024)   
-- Implementation of reusable UI components  
-- Cross-functional collaboration with designers and QA  
-- UI/UX improvements based on user feedback  
-
----
 
 🎮 Outside tech, I enjoy reading manga, playing Magic: The Gathering, and Nintendo Switch.
